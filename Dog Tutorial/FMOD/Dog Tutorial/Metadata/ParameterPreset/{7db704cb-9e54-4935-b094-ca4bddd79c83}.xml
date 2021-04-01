@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{7db704cb-9e54-4935-b094-ca4bddd79c83}">
+		<property name="name">
+			<value>BarkParameter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c3ec7cd0-69c8-4e75-8de2-43b1e508b093}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{aa4942f0-49ca-49ff-8e23-2861f54774c0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{aa4942f0-49ca-49ff-8e23-2861f54774c0}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
